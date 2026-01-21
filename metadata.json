@@ -1,0 +1,5 @@
+{
+  "name": "Bikers Creed India Dashboard",
+  "description": "A communication and ride management dashboard for members of the Bikers Creed India motorcycling club. Riders can view their stats, register for upcoming rides, and see ride history. Marshals have admin controls to manage rides, assign roles, and update member data.",
+  "requestFramePermissions": []
+}
